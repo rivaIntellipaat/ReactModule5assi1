@@ -1,0 +1,32 @@
+.ErrorPage_728_776 {
+    background: #ffffff;
+    flex-flow: row;
+    flex-shrink: 0;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0;
+    display: flex;
+    overflow: hidden;
+  }
+  .Vector_728_777 {
+    fill: #fcd5c5;
+    position: relative;
+    right: 130px;
+    margin-top: 70px;
+    width: 400px;
+    height: 200px;
+  }
+  .Group_4_728_789 {
+    width: 300px;
+    display: flex;
+    position: absolute;
+    margin: 100px;
+    margin-left: 160px;
+    height: 420px;
+  }
+  .generated_20_728_796 {
+    width: 679px;
+    margin-left: 300px;
+    height: 622px;
+  }
+  
